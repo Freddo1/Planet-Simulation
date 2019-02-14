@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Laboration 3", "Laboration 3\Laboration 3.vcxproj", "{166ACA13-5381-4AFB-9878-09D9241BC9C1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PlanetServer", "PlanetServer\PlanetServer.vcxproj", "{F186A091-A9FB-421A-94F0-5AFA036FE808}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{166ACA13-5381-4AFB-9878-09D9241BC9C1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{166ACA13-5381-4AFB-9878-09D9241BC9C1}.Debug|Win32.Build.0 = Debug|Win32
+		{166ACA13-5381-4AFB-9878-09D9241BC9C1}.Release|Win32.ActiveCfg = Release|Win32
+		{166ACA13-5381-4AFB-9878-09D9241BC9C1}.Release|Win32.Build.0 = Release|Win32
+		{F186A091-A9FB-421A-94F0-5AFA036FE808}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F186A091-A9FB-421A-94F0-5AFA036FE808}.Debug|Win32.Build.0 = Debug|Win32
+		{F186A091-A9FB-421A-94F0-5AFA036FE808}.Release|Win32.ActiveCfg = Release|Win32
+		{F186A091-A9FB-421A-94F0-5AFA036FE808}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

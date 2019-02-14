@@ -1,0 +1,7 @@
+﻿  wrapper.c
+  server.c
+e:\schoolwork\dvaoperativ\labfinal\lab3final_fjn14001\planetserver\server.c(103): warning C4101: 'posY': unreferenced local variable
+  Generating Code...
+e:\schoolwork\dvaoperativ\labfinal\lab3final_fjn14001\planetserver\server.c(287): warning C4716: 'ThreadPlanetFunc': must return a value
+e:\schoolwork\dvaoperativ\labfinal\lab3final_fjn14001\laboration 3\wrapper.c(77): warning C4716: 'mailslotClose': must return a value
+  PlanetServer.vcxproj -> E:\SchoolWork\DvaOperativ\LabFinal\Lab3Final_fjn14001\Debug\PlanetServer.exe
